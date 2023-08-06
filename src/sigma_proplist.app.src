@@ -1,0 +1,15 @@
+{application, sigma_proplist,
+ [
+  {description, "Compatibility layer to erlang_ds"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  erlware_commons
+                 ]},
+  {modules, [pl]},
+  {env, []},
+  {maintainers, ["Jesse Gumm"]},
+  {licenses, ["MIT"]},
+  {links, [{"Github", "https://github.com/choptastic/sigma_proplist"}]}
+ ]}.
