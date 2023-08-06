@@ -10,6 +10,10 @@ to make any changes to your rebar.config.
 If you're starting a new project, just use [Erlang
 DS](https://github.com/choptastic/erlang_ds) instead.
 
+## Versions
+
+The version numbers will be updated along with Erlang DS.
+
 ## About
 
 Author: [Jesse Gumm](http://github.com/choptastic)
